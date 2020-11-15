@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gwLKOXMcE7fSN9LKDe1hPTbLuhTqX5aiM61w2+n4ja5YEAmVgmpXgDmYqbKsvVpDc70y94+cjUBgeybxx789nw==",
+  "success": true,
+  "projectFilePath": "E:\\Semesters\\Second Year\\6th Semester(COVID-19)\\C#\\Mid Assignment\\Assignment Mid Fall 2020 - 2021\\University Management System\\University Management System.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

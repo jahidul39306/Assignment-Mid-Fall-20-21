@@ -1,0 +1,26 @@
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Mid Assignment\University Management System\bin\Debug\netcoreapp3.1\University Management System.exe
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Mid Assignment\University Management System\bin\Debug\netcoreapp3.1\University Management System.deps.json
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Mid Assignment\University Management System\bin\Debug\netcoreapp3.1\University Management System.runtimeconfig.json
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Mid Assignment\University Management System\bin\Debug\netcoreapp3.1\University Management System.runtimeconfig.dev.json
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Mid Assignment\University Management System\bin\Debug\netcoreapp3.1\University Management System.dll
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Mid Assignment\University Management System\bin\Debug\netcoreapp3.1\University Management System.pdb
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Mid Assignment\University Management System\obj\Debug\netcoreapp3.1\University Management System.csprojAssemblyReference.cache
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Mid Assignment\University Management System\obj\Debug\netcoreapp3.1\University Management System.AssemblyInfoInputs.cache
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Mid Assignment\University Management System\obj\Debug\netcoreapp3.1\University Management System.AssemblyInfo.cs
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Mid Assignment\University Management System\obj\Debug\netcoreapp3.1\University Management System.csproj.CoreCompileInputs.cache
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Mid Assignment\University Management System\obj\Debug\netcoreapp3.1\University Management System.dll
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Mid Assignment\University Management System\obj\Debug\netcoreapp3.1\University Management System.pdb
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Mid Assignment\University Management System\obj\Debug\netcoreapp3.1\University Management System.genruntimeconfig.cache
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Mid Assignment\Assignment Mid Fall 2020 - 2021\University Management System\bin\Debug\netcoreapp3.1\University Management System.exe
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Mid Assignment\Assignment Mid Fall 2020 - 2021\University Management System\bin\Debug\netcoreapp3.1\University Management System.deps.json
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Mid Assignment\Assignment Mid Fall 2020 - 2021\University Management System\bin\Debug\netcoreapp3.1\University Management System.runtimeconfig.json
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Mid Assignment\Assignment Mid Fall 2020 - 2021\University Management System\bin\Debug\netcoreapp3.1\University Management System.runtimeconfig.dev.json
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Mid Assignment\Assignment Mid Fall 2020 - 2021\University Management System\bin\Debug\netcoreapp3.1\University Management System.dll
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Mid Assignment\Assignment Mid Fall 2020 - 2021\University Management System\bin\Debug\netcoreapp3.1\University Management System.pdb
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Mid Assignment\Assignment Mid Fall 2020 - 2021\University Management System\obj\Debug\netcoreapp3.1\University Management System.csprojAssemblyReference.cache
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Mid Assignment\Assignment Mid Fall 2020 - 2021\University Management System\obj\Debug\netcoreapp3.1\University Management System.AssemblyInfoInputs.cache
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Mid Assignment\Assignment Mid Fall 2020 - 2021\University Management System\obj\Debug\netcoreapp3.1\University Management System.AssemblyInfo.cs
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Mid Assignment\Assignment Mid Fall 2020 - 2021\University Management System\obj\Debug\netcoreapp3.1\University Management System.csproj.CoreCompileInputs.cache
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Mid Assignment\Assignment Mid Fall 2020 - 2021\University Management System\obj\Debug\netcoreapp3.1\University Management System.dll
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Mid Assignment\Assignment Mid Fall 2020 - 2021\University Management System\obj\Debug\netcoreapp3.1\University Management System.pdb
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Mid Assignment\Assignment Mid Fall 2020 - 2021\University Management System\obj\Debug\netcoreapp3.1\University Management System.genruntimeconfig.cache
